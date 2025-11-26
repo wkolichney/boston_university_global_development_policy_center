@@ -7,7 +7,7 @@ The Data Analysis for Transparency and Accountability team under the Boston Univ
 This directory focuses on my work on the China-Asia Bulletin, including code and reading materials
 
 ## Code
-1. comtrade_clean_china.ipynb, comtrade_clean_world.ipynb
+1. **comtrade_clean_china.ipynb, comtrade_clean_world.ipynb**
   - Clean UN Comtrade data according to our methodology
    
 
