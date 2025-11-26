@@ -8,7 +8,7 @@ This directory focuses on my work on the China-Asia Bulletin, including code and
 
 ## Code
 1. comtrade_clean_china.ipynb, comtrade_clean_world.ipynb
-- Clean UN Comtrade data according to our methodology
+  - Clean UN Comtrade data according to our methodology
    
 
    
